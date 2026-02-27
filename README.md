@@ -2,7 +2,7 @@
 
 ## Project context
 This project was developed as part of the **Application Designer & Developer (React-oriented)** training program by OpenClassrooms.  
-It is the first project of the program and focuses on front-end integration fundamentals before introducing JavaScript and React.
+It's a project of the program and focuses on front-end integration fundamentals before introducing JavaScript and React.
 
 The objective was to integrate a responsive accommodation booking website based on a provided design, following strict layout and responsiveness requirements.
 
